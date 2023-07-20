@@ -1,0 +1,19 @@
+1. Data analysing 
+
+2. Data clearing
+
+   drop null points using dropnna
+   remove unnecessary columns 
+   organise 'size' column bhk and bedroom into only number
+   ornaise total_sqft into float and if range is there then convert into average
+   make another column 'price per sqft'
+   for less than 10 houses at a locations - convert all such locations into others
+   
+3. Outlier removal
+
+   remove rows which have' total area per bhk < 300'
+   at each location organise 'price per sqft' using mean and standard deviation
+   
+   
+   
+   
